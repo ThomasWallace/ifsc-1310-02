@@ -53,6 +53,11 @@ body {
   font-family: "Roboto", sans-serif;
   margin: 0;
   line-height:1.6rem;
+  background:red;
+}
+
+body#about{
+  background:rgb(0, 4, 255);
 }
 
 header.primary {
